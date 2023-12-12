@@ -1,0 +1,9 @@
+{
+  "name"  : "Miguel Rivera",
+  "email" : "miguel.rivera.flo@gmail.com",
+  "cel"   : "(272) 1276929",
+  "social": {
+    "face": "^2.8.5",
+    "x": "^4.18.2"
+  }
+}
